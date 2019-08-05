@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/eneimv/Pipelines-Learning-Project/_apis/build/status/eneimv.pipelines-java?branchName=master)](https://dev.azure.com/eneimv/Pipelines-Learning-Project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
